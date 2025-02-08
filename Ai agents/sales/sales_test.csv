@@ -1,0 +1,731 @@
+Date,Season,Sales,Price,Product_Name
+2023-08-08,Summer,5574.09,92.02,Winter Jacket
+2023-08-09,Summer,9226.17,86.7,Winter Jacket
+2023-08-10,Summer,6932.74,84.25,Winter Jacket
+2023-08-11,Summer,6132.01,85.86,Winter Jacket
+2023-08-12,Summer,13108.69,90.09,Winter Jacket
+2023-08-13,Summer,15470.45,88.69,Winter Jacket
+2023-08-14,Summer,7291.67,83.18,Winter Jacket
+2023-08-15,Summer,10042.45,90.08,Winter Jacket
+2023-08-16,Summer,7198.52,86.59,Winter Jacket
+2023-08-17,Summer,5511.68,87.69,Winter Jacket
+2023-08-18,Summer,7489.56,81.78,Winter Jacket
+2023-08-19,Summer,8849.29,83.14,Winter Jacket
+2023-08-20,Summer,13015.33,90.63,Winter Jacket
+2023-08-21,Summer,3918.23,95.41,Winter Jacket
+2023-08-22,Summer,5350.88,91.75,Winter Jacket
+2023-08-23,Summer,6810.59,94.78,Winter Jacket
+2023-08-24,Summer,6020.89,86.58,Winter Jacket
+2023-08-25,Summer,7586.98,97.32,Winter Jacket
+2023-08-26,Summer,10001.89,93.36,Winter Jacket
+2023-08-27,Summer,12798.2,88.65,Winter Jacket
+2023-08-28,Summer,7561.45,89.8,Winter Jacket
+2023-08-29,Summer,9340.1,97.69,Winter Jacket
+2023-08-30,Summer,7275.82,97.1,Winter Jacket
+2023-08-31,Summer,2719.76,96.14,Winter Jacket
+2023-09-01,Fall,26709.4,83.12,Winter Jacket
+2023-09-02,Fall,33941.99,96.67,Winter Jacket
+2023-09-03,Fall,49545.63,83.0,Winter Jacket
+2023-09-04,Fall,26966.8,94.33,Winter Jacket
+2023-09-05,Fall,28987.92,94.88,Winter Jacket
+2023-09-06,Fall,19572.0,85.28,Winter Jacket
+2023-09-07,Fall,21787.71,94.63,Winter Jacket
+2023-09-08,Fall,22375.69,82.23,Winter Jacket
+2023-09-09,Fall,43187.15,92.58,Winter Jacket
+2023-09-10,Fall,33732.45,94.75,Winter Jacket
+2023-09-11,Fall,34549.55,82.49,Winter Jacket
+2023-09-12,Fall,28837.82,86.1,Winter Jacket
+2023-09-13,Fall,32371.8,83.73,Winter Jacket
+2023-09-14,Fall,27812.36,87.63,Winter Jacket
+2023-09-15,Fall,25282.73,94.5,Winter Jacket
+2023-09-16,Fall,42273.35,98.11,Winter Jacket
+2023-09-17,Fall,36985.64,94.19,Winter Jacket
+2023-09-18,Fall,17339.19,83.38,Winter Jacket
+2023-09-19,Fall,23604.47,91.61,Winter Jacket
+2023-09-20,Fall,19199.37,88.19,Winter Jacket
+2023-09-21,Fall,19546.92,85.79,Winter Jacket
+2023-09-22,Fall,25835.86,95.39,Winter Jacket
+2023-09-23,Fall,34986.89,94.72,Winter Jacket
+2023-09-24,Fall,40953.23,91.87,Winter Jacket
+2023-09-25,Fall,25160.66,91.18,Winter Jacket
+2023-09-26,Fall,27430.87,91.42,Winter Jacket
+2023-09-27,Fall,14505.99,92.02,Winter Jacket
+2023-09-28,Fall,26704.35,83.82,Winter Jacket
+2023-09-29,Fall,15747.85,84.51,Winter Jacket
+2023-09-30,Fall,46818.87,84.88,Winter Jacket
+2023-10-01,Fall,27271.24,96.51,Winter Jacket
+2023-10-02,Fall,24440.76,94.29,Winter Jacket
+2023-10-03,Fall,30527.37,98.24,Winter Jacket
+2023-10-04,Fall,20729.22,85.7,Winter Jacket
+2023-10-05,Fall,27856.56,87.43,Winter Jacket
+2023-10-06,Fall,19589.52,91.13,Winter Jacket
+2023-10-07,Fall,44628.87,81.86,Winter Jacket
+2023-10-08,Fall,36732.83,93.33,Winter Jacket
+2023-10-09,Fall,20220.04,91.71,Winter Jacket
+2023-10-10,Fall,31756.65,97.28,Winter Jacket
+2023-10-11,Fall,18725.18,95.2,Winter Jacket
+2023-10-12,Fall,27414.51,83.6,Winter Jacket
+2023-10-13,Fall,22864.99,85.73,Winter Jacket
+2023-10-14,Fall,39148.54,87.56,Winter Jacket
+2023-10-15,Fall,44016.81,82.02,Winter Jacket
+2023-10-16,Fall,21545.08,84.05,Winter Jacket
+2023-10-17,Fall,23288.36,84.45,Winter Jacket
+2023-10-18,Fall,19363.87,89.32,Winter Jacket
+2023-10-19,Fall,21770.02,94.46,Winter Jacket
+2023-10-20,Fall,31014.58,95.86,Winter Jacket
+2023-10-21,Fall,47521.97,96.0,Winter Jacket
+2023-10-22,Fall,35762.43,81.05,Winter Jacket
+2023-10-23,Fall,22599.39,92.65,Winter Jacket
+2023-10-24,Fall,26938.02,82.76,Winter Jacket
+2023-10-25,Fall,26331.98,86.54,Winter Jacket
+2023-10-26,Fall,27311.98,87.91,Winter Jacket
+2023-10-27,Fall,35053.32,82.55,Winter Jacket
+2023-10-28,Fall,49661.02,95.67,Winter Jacket
+2023-10-29,Fall,34498.16,96.05,Winter Jacket
+2023-10-30,Fall,29327.55,89.1,Winter Jacket
+2023-10-31,Fall,31670.73,93.67,Winter Jacket
+2023-11-01,Fall,19524.17,81.55,Winter Jacket
+2023-11-02,Fall,16260.71,84.48,Winter Jacket
+2023-11-03,Fall,27856.7,87.33,Winter Jacket
+2023-11-04,Fall,49279.41,86.85,Winter Jacket
+2023-11-05,Fall,28159.18,86.96,Winter Jacket
+2023-11-06,Fall,17546.91,91.18,Winter Jacket
+2023-11-07,Fall,22748.93,92.36,Winter Jacket
+2023-11-08,Fall,17301.63,85.95,Winter Jacket
+2023-11-09,Fall,22153.42,85.93,Winter Jacket
+2023-11-10,Fall,24330.58,83.88,Winter Jacket
+2023-11-11,Fall,35309.33,86.48,Winter Jacket
+2023-11-12,Fall,29641.84,97.78,Winter Jacket
+2023-11-13,Fall,24145.25,96.07,Winter Jacket
+2023-11-14,Fall,15752.95,86.76,Winter Jacket
+2023-11-15,Fall,31185.28,93.66,Winter Jacket
+2023-11-16,Fall,23428.29,86.25,Winter Jacket
+2023-11-17,Fall,21255.86,93.65,Winter Jacket
+2023-11-18,Fall,40256.04,82.1,Winter Jacket
+2023-11-19,Fall,41660.54,88.81,Winter Jacket
+2023-11-20,Fall,60039.05,96.12,Winter Jacket
+2023-11-21,Fall,77722.52,84.95,Winter Jacket
+2023-11-22,Fall,53453.39,92.28,Winter Jacket
+2023-11-23,Fall,49627.2,85.3,Winter Jacket
+2023-11-24,Fall,59037.13,92.67,Winter Jacket
+2023-11-25,Fall,102780.21,81.7,Winter Jacket
+2023-11-26,Fall,134964.37,84.19,Winter Jacket
+2023-11-27,Fall,64491.85,82.31,Winter Jacket
+2023-11-28,Fall,33465.26,84.7,Winter Jacket
+2023-11-29,Fall,21597.95,98.87,Winter Jacket
+2023-11-30,Fall,29597.07,95.33,Winter Jacket
+2023-12-01,Winter,55871.07,86.43,Winter Jacket
+2023-12-02,Winter,75080.34,97.98,Winter Jacket
+2023-12-03,Winter,57909.8,98.23,Winter Jacket
+2023-12-04,Winter,52428.5,98.28,Winter Jacket
+2023-12-05,Winter,45820.47,90.53,Winter Jacket
+2023-12-06,Winter,38487.78,92.63,Winter Jacket
+2023-12-07,Winter,45272.86,85.71,Winter Jacket
+2023-12-08,Winter,45795.79,86.49,Winter Jacket
+2023-12-09,Winter,56443.06,94.94,Winter Jacket
+2023-12-10,Winter,54863.77,84.84,Winter Jacket
+2023-12-11,Winter,31523.81,95.36,Winter Jacket
+2023-12-12,Winter,46412.1,91.92,Winter Jacket
+2023-12-13,Winter,39552.85,83.18,Winter Jacket
+2023-12-14,Winter,39486.27,88.36,Winter Jacket
+2023-12-15,Winter,78668.67,81.88,Winter Jacket
+2023-12-16,Winter,125629.83,89.99,Winter Jacket
+2023-12-17,Winter,96101.76,82.87,Winter Jacket
+2023-12-18,Winter,83885.65,94.87,Winter Jacket
+2023-12-19,Winter,102408.82,83.73,Winter Jacket
+2023-12-20,Winter,72314.91,96.1,Winter Jacket
+2023-12-21,Winter,70997.84,89.04,Winter Jacket
+2023-12-22,Winter,94706.68,81.36,Winter Jacket
+2023-12-23,Winter,131162.78,90.39,Winter Jacket
+2023-12-24,Winter,133384.62,82.49,Winter Jacket
+2023-12-25,Winter,40676.26,90.04,Winter Jacket
+2023-12-26,Winter,67048.08,93.0,Winter Jacket
+2023-12-27,Winter,43000.84,86.23,Winter Jacket
+2023-12-28,Winter,32036.1,90.27,Winter Jacket
+2023-12-29,Winter,42181.84,83.86,Winter Jacket
+2023-12-30,Winter,82956.35,98.9,Winter Jacket
+2023-12-31,Winter,69355.95,88.24,Winter Jacket
+2023-08-08,Summer,79474.45,19.47,T-Shirt
+2023-08-09,Summer,89395.32,21.56,T-Shirt
+2023-08-10,Summer,70563.19,20.77,T-Shirt
+2023-08-11,Summer,63476.16,18.63,T-Shirt
+2023-08-12,Summer,103732.54,19.18,T-Shirt
+2023-08-13,Summer,136928.24,18.52,T-Shirt
+2023-08-14,Summer,71443.61,21.27,T-Shirt
+2023-08-15,Summer,71490.03,20.37,T-Shirt
+2023-08-16,Summer,66159.1,19.37,T-Shirt
+2023-08-17,Summer,79556.46,21.39,T-Shirt
+2023-08-18,Summer,66144.73,21.41,T-Shirt
+2023-08-19,Summer,134429.32,21.53,T-Shirt
+2023-08-20,Summer,128776.61,20.48,T-Shirt
+2023-08-21,Summer,66248.54,18.43,T-Shirt
+2023-08-22,Summer,74457.43,20.42,T-Shirt
+2023-08-23,Summer,74201.96,21.49,T-Shirt
+2023-08-24,Summer,79370.21,20.21,T-Shirt
+2023-08-25,Summer,42352.96,19.7,T-Shirt
+2023-08-26,Summer,108641.55,20.37,T-Shirt
+2023-08-27,Summer,100702.96,21.3,T-Shirt
+2023-08-28,Summer,75333.01,19.22,T-Shirt
+2023-08-29,Summer,77701.23,21.6,T-Shirt
+2023-08-30,Summer,59272.63,21.49,T-Shirt
+2023-08-31,Summer,38187.52,20.95,T-Shirt
+2023-09-01,Fall,48251.52,20.22,T-Shirt
+2023-09-02,Fall,66833.42,19.68,T-Shirt
+2023-09-03,Fall,55801.07,21.61,T-Shirt
+2023-09-04,Fall,55788.13,21.73,T-Shirt
+2023-09-05,Fall,51024.73,18.33,T-Shirt
+2023-09-06,Fall,61148.57,20.91,T-Shirt
+2023-09-07,Fall,54173.27,20.09,T-Shirt
+2023-09-08,Fall,54928.18,21.27,T-Shirt
+2023-09-09,Fall,63392.44,18.15,T-Shirt
+2023-09-10,Fall,69282.81,21.19,T-Shirt
+2023-09-11,Fall,38791.2,19.13,T-Shirt
+2023-09-12,Fall,33011.72,18.54,T-Shirt
+2023-09-13,Fall,34349.19,18.46,T-Shirt
+2023-09-14,Fall,61754.8,18.83,T-Shirt
+2023-09-15,Fall,35804.02,18.8,T-Shirt
+2023-09-16,Fall,76046.48,21.57,T-Shirt
+2023-09-17,Fall,61362.2,20.49,T-Shirt
+2023-09-18,Fall,46982.56,20.52,T-Shirt
+2023-09-19,Fall,47838.04,18.32,T-Shirt
+2023-09-20,Fall,58022.53,19.99,T-Shirt
+2023-09-21,Fall,47383.1,18.03,T-Shirt
+2023-09-22,Fall,58030.25,18.67,T-Shirt
+2023-09-23,Fall,74950.29,18.51,T-Shirt
+2023-09-24,Fall,75374.87,19.27,T-Shirt
+2023-09-25,Fall,53215.0,19.65,T-Shirt
+2023-09-26,Fall,51014.67,20.85,T-Shirt
+2023-09-27,Fall,57177.0,19.1,T-Shirt
+2023-09-28,Fall,54321.46,18.96,T-Shirt
+2023-09-29,Fall,47585.09,18.29,T-Shirt
+2023-09-30,Fall,74309.74,19.57,T-Shirt
+2023-10-01,Fall,82101.27,19.6,T-Shirt
+2023-10-02,Fall,51774.09,20.73,T-Shirt
+2023-10-03,Fall,66515.57,21.67,T-Shirt
+2023-10-04,Fall,61391.23,18.98,T-Shirt
+2023-10-05,Fall,53756.9,20.33,T-Shirt
+2023-10-06,Fall,55797.56,18.07,T-Shirt
+2023-10-07,Fall,85647.69,20.38,T-Shirt
+2023-10-08,Fall,77023.83,21.26,T-Shirt
+2023-10-09,Fall,52826.53,20.33,T-Shirt
+2023-10-10,Fall,41487.49,21.07,T-Shirt
+2023-10-11,Fall,61307.34,20.22,T-Shirt
+2023-10-12,Fall,40171.82,20.03,T-Shirt
+2023-10-13,Fall,50151.5,20.65,T-Shirt
+2023-10-14,Fall,76986.42,19.05,T-Shirt
+2023-10-15,Fall,78147.41,20.28,T-Shirt
+2023-10-16,Fall,35686.44,18.06,T-Shirt
+2023-10-17,Fall,47772.23,19.68,T-Shirt
+2023-10-18,Fall,33512.39,20.72,T-Shirt
+2023-10-19,Fall,51810.68,20.64,T-Shirt
+2023-10-20,Fall,46371.36,21.06,T-Shirt
+2023-10-21,Fall,65846.43,19.8,T-Shirt
+2023-10-22,Fall,73197.54,20.58,T-Shirt
+2023-10-23,Fall,47372.9,18.18,T-Shirt
+2023-10-24,Fall,44617.86,18.13,T-Shirt
+2023-10-25,Fall,46014.19,19.1,T-Shirt
+2023-10-26,Fall,57673.69,18.27,T-Shirt
+2023-10-27,Fall,66526.73,18.04,T-Shirt
+2023-10-28,Fall,82103.93,19.87,T-Shirt
+2023-10-29,Fall,82035.6,20.45,T-Shirt
+2023-10-30,Fall,47596.21,20.89,T-Shirt
+2023-10-31,Fall,53057.51,21.92,T-Shirt
+2023-11-01,Fall,40231.06,21.43,T-Shirt
+2023-11-02,Fall,50447.12,21.24,T-Shirt
+2023-11-03,Fall,57050.7,20.57,T-Shirt
+2023-11-04,Fall,72588.55,21.31,T-Shirt
+2023-11-05,Fall,77491.4,21.39,T-Shirt
+2023-11-06,Fall,39981.04,18.17,T-Shirt
+2023-11-07,Fall,45928.03,20.7,T-Shirt
+2023-11-08,Fall,45744.55,18.75,T-Shirt
+2023-11-09,Fall,56260.86,18.51,T-Shirt
+2023-11-10,Fall,53553.36,18.65,T-Shirt
+2023-11-11,Fall,84467.6,19.07,T-Shirt
+2023-11-12,Fall,90290.87,20.62,T-Shirt
+2023-11-13,Fall,45357.01,19.83,T-Shirt
+2023-11-14,Fall,57609.83,20.29,T-Shirt
+2023-11-15,Fall,46663.79,20.84,T-Shirt
+2023-11-16,Fall,63130.36,21.52,T-Shirt
+2023-11-17,Fall,37003.32,21.08,T-Shirt
+2023-11-18,Fall,75998.93,21.87,T-Shirt
+2023-11-19,Fall,78914.61,19.18,T-Shirt
+2023-11-20,Fall,119230.22,19.66,T-Shirt
+2023-11-21,Fall,148574.79,20.43,T-Shirt
+2023-11-22,Fall,129423.05,21.42,T-Shirt
+2023-11-23,Fall,117646.81,18.47,T-Shirt
+2023-11-24,Fall,119437.63,19.96,T-Shirt
+2023-11-25,Fall,122113.82,21.7,T-Shirt
+2023-11-26,Fall,175909.03,19.99,T-Shirt
+2023-11-27,Fall,117568.0,21.43,T-Shirt
+2023-11-28,Fall,47290.41,18.17,T-Shirt
+2023-11-29,Fall,48430.32,19.5,T-Shirt
+2023-11-30,Fall,50129.24,20.56,T-Shirt
+2023-12-01,Winter,23748.03,18.72,T-Shirt
+2023-12-02,Winter,32999.93,20.96,T-Shirt
+2023-12-03,Winter,34757.17,19.76,T-Shirt
+2023-12-04,Winter,20366.15,18.76,T-Shirt
+2023-12-05,Winter,18081.67,18.2,T-Shirt
+2023-12-06,Winter,18214.22,18.89,T-Shirt
+2023-12-07,Winter,23671.18,20.61,T-Shirt
+2023-12-08,Winter,17519.72,18.59,T-Shirt
+2023-12-09,Winter,23351.93,20.76,T-Shirt
+2023-12-10,Winter,32519.91,18.24,T-Shirt
+2023-12-11,Winter,19659.66,21.65,T-Shirt
+2023-12-12,Winter,21645.21,19.77,T-Shirt
+2023-12-13,Winter,17843.0,21.79,T-Shirt
+2023-12-14,Winter,24110.75,19.73,T-Shirt
+2023-12-15,Winter,35108.86,18.34,T-Shirt
+2023-12-16,Winter,65880.08,19.72,T-Shirt
+2023-12-17,Winter,67598.19,18.19,T-Shirt
+2023-12-18,Winter,35990.66,21.76,T-Shirt
+2023-12-19,Winter,32358.41,21.83,T-Shirt
+2023-12-20,Winter,36164.24,19.24,T-Shirt
+2023-12-21,Winter,44130.11,18.21,T-Shirt
+2023-12-22,Winter,46734.1,20.24,T-Shirt
+2023-12-23,Winter,60435.92,18.64,T-Shirt
+2023-12-24,Winter,72313.24,21.02,T-Shirt
+2023-12-25,Winter,17721.77,20.95,T-Shirt
+2023-12-26,Winter,19129.14,20.34,T-Shirt
+2023-12-27,Winter,25565.08,21.95,T-Shirt
+2023-12-28,Winter,21437.88,18.36,T-Shirt
+2023-12-29,Winter,20292.44,20.24,T-Shirt
+2023-12-30,Winter,37116.13,20.35,T-Shirt
+2023-12-31,Winter,28226.48,21.1,T-Shirt
+2023-08-08,Summer,9815.28,22.78,Umbrella
+2023-08-09,Summer,17292.12,24.29,Umbrella
+2023-08-10,Summer,22805.96,22.75,Umbrella
+2023-08-11,Summer,11700.73,26.23,Umbrella
+2023-08-12,Summer,22917.45,24.61,Umbrella
+2023-08-13,Summer,14926.99,27.3,Umbrella
+2023-08-14,Summer,17465.21,24.78,Umbrella
+2023-08-15,Summer,16960.06,25.96,Umbrella
+2023-08-16,Summer,13137.04,25.93,Umbrella
+2023-08-17,Summer,19688.15,23.77,Umbrella
+2023-08-18,Summer,16712.7,27.02,Umbrella
+2023-08-19,Summer,29802.01,25.91,Umbrella
+2023-08-20,Summer,24684.14,22.91,Umbrella
+2023-08-21,Summer,16139.97,24.65,Umbrella
+2023-08-22,Summer,15861.49,26.8,Umbrella
+2023-08-23,Summer,16974.4,26.43,Umbrella
+2023-08-24,Summer,17317.03,25.58,Umbrella
+2023-08-25,Summer,20552.9,26.17,Umbrella
+2023-08-26,Summer,25244.94,26.41,Umbrella
+2023-08-27,Summer,29314.89,23.93,Umbrella
+2023-08-28,Summer,17961.15,24.88,Umbrella
+2023-08-29,Summer,15808.44,22.53,Umbrella
+2023-08-30,Summer,17903.33,27.4,Umbrella
+2023-08-31,Summer,17902.79,23.75,Umbrella
+2023-09-01,Fall,21632.09,26.7,Umbrella
+2023-09-02,Fall,23784.57,26.57,Umbrella
+2023-09-03,Fall,34150.73,24.48,Umbrella
+2023-09-04,Fall,15933.78,23.98,Umbrella
+2023-09-05,Fall,16083.52,22.64,Umbrella
+2023-09-06,Fall,23469.79,26.21,Umbrella
+2023-09-07,Fall,19023.94,26.63,Umbrella
+2023-09-08,Fall,14675.15,24.22,Umbrella
+2023-09-09,Fall,34084.1,22.99,Umbrella
+2023-09-10,Fall,27227.58,26.84,Umbrella
+2023-09-11,Fall,14335.34,25.48,Umbrella
+2023-09-12,Fall,19357.49,24.44,Umbrella
+2023-09-13,Fall,20549.54,25.22,Umbrella
+2023-09-14,Fall,19304.27,22.66,Umbrella
+2023-09-15,Fall,19325.29,22.96,Umbrella
+2023-09-16,Fall,24931.95,25.47,Umbrella
+2023-09-17,Fall,32202.42,25.19,Umbrella
+2023-09-18,Fall,17769.07,26.94,Umbrella
+2023-09-19,Fall,18893.2,23.11,Umbrella
+2023-09-20,Fall,18602.61,22.52,Umbrella
+2023-09-21,Fall,13999.42,26.14,Umbrella
+2023-09-22,Fall,22942.34,27.02,Umbrella
+2023-09-23,Fall,35767.38,25.81,Umbrella
+2023-09-24,Fall,19798.18,24.11,Umbrella
+2023-09-25,Fall,15057.24,23.69,Umbrella
+2023-09-26,Fall,26137.02,25.46,Umbrella
+2023-09-27,Fall,24020.76,22.75,Umbrella
+2023-09-28,Fall,23788.2,25.76,Umbrella
+2023-09-29,Fall,18164.15,25.74,Umbrella
+2023-09-30,Fall,24919.89,27.41,Umbrella
+2023-10-01,Fall,29584.7,25.16,Umbrella
+2023-10-02,Fall,12551.4,23.5,Umbrella
+2023-10-03,Fall,20991.03,25.21,Umbrella
+2023-10-04,Fall,17944.88,24.13,Umbrella
+2023-10-05,Fall,12923.26,27.13,Umbrella
+2023-10-06,Fall,24274.26,25.03,Umbrella
+2023-10-07,Fall,34141.76,25.92,Umbrella
+2023-10-08,Fall,30682.14,26.42,Umbrella
+2023-10-09,Fall,20565.83,22.73,Umbrella
+2023-10-10,Fall,20054.7,25.19,Umbrella
+2023-10-11,Fall,24474.75,23.49,Umbrella
+2023-10-12,Fall,20903.26,22.55,Umbrella
+2023-10-13,Fall,21518.39,27.02,Umbrella
+2023-10-14,Fall,32919.16,22.69,Umbrella
+2023-10-15,Fall,41566.51,24.1,Umbrella
+2023-10-16,Fall,17806.71,24.38,Umbrella
+2023-10-17,Fall,20106.57,26.42,Umbrella
+2023-10-18,Fall,22350.79,22.64,Umbrella
+2023-10-19,Fall,16509.22,23.31,Umbrella
+2023-10-20,Fall,24530.28,24.12,Umbrella
+2023-10-21,Fall,40626.03,26.26,Umbrella
+2023-10-22,Fall,38246.52,25.46,Umbrella
+2023-10-23,Fall,23259.52,25.72,Umbrella
+2023-10-24,Fall,23251.75,24.35,Umbrella
+2023-10-25,Fall,21523.16,26.18,Umbrella
+2023-10-26,Fall,16094.49,24.32,Umbrella
+2023-10-27,Fall,23616.65,24.46,Umbrella
+2023-10-28,Fall,24960.98,26.03,Umbrella
+2023-10-29,Fall,31295.87,23.28,Umbrella
+2023-10-30,Fall,15821.29,24.02,Umbrella
+2023-10-31,Fall,16386.1,24.91,Umbrella
+2023-11-01,Fall,18511.38,26.49,Umbrella
+2023-11-02,Fall,23669.54,24.12,Umbrella
+2023-11-03,Fall,17238.61,22.6,Umbrella
+2023-11-04,Fall,36472.41,25.16,Umbrella
+2023-11-05,Fall,17061.38,27.1,Umbrella
+2023-11-06,Fall,18490.85,27.27,Umbrella
+2023-11-07,Fall,12587.98,25.15,Umbrella
+2023-11-08,Fall,20519.51,26.24,Umbrella
+2023-11-09,Fall,23156.89,26.54,Umbrella
+2023-11-10,Fall,7620.52,25.36,Umbrella
+2023-11-11,Fall,27197.95,26.44,Umbrella
+2023-11-12,Fall,29576.11,22.84,Umbrella
+2023-11-13,Fall,20971.03,24.46,Umbrella
+2023-11-14,Fall,16008.32,27.35,Umbrella
+2023-11-15,Fall,20894.87,27.07,Umbrella
+2023-11-16,Fall,17948.55,23.02,Umbrella
+2023-11-17,Fall,19890.27,25.17,Umbrella
+2023-11-18,Fall,32610.4,24.64,Umbrella
+2023-11-19,Fall,28380.01,22.79,Umbrella
+2023-11-20,Fall,48698.25,27.16,Umbrella
+2023-11-21,Fall,61776.76,24.53,Umbrella
+2023-11-22,Fall,41207.46,27.04,Umbrella
+2023-11-23,Fall,45889.92,22.98,Umbrella
+2023-11-24,Fall,52754.12,24.62,Umbrella
+2023-11-25,Fall,57248.75,24.56,Umbrella
+2023-11-26,Fall,76518.64,23.08,Umbrella
+2023-11-27,Fall,61132.94,25.23,Umbrella
+2023-11-28,Fall,17955.97,24.42,Umbrella
+2023-11-29,Fall,16947.17,24.21,Umbrella
+2023-11-30,Fall,25802.69,23.36,Umbrella
+2023-12-01,Winter,18567.83,24.38,Umbrella
+2023-12-02,Winter,19550.71,27.18,Umbrella
+2023-12-03,Winter,25296.52,27.45,Umbrella
+2023-12-04,Winter,10307.29,24.86,Umbrella
+2023-12-05,Winter,17711.09,23.72,Umbrella
+2023-12-06,Winter,15328.99,26.16,Umbrella
+2023-12-07,Winter,15816.06,24.26,Umbrella
+2023-12-08,Winter,15773.13,23.21,Umbrella
+2023-12-09,Winter,21267.27,25.52,Umbrella
+2023-12-10,Winter,27509.5,23.03,Umbrella
+2023-12-11,Winter,15097.08,23.0,Umbrella
+2023-12-12,Winter,17181.43,24.07,Umbrella
+2023-12-13,Winter,17612.16,23.45,Umbrella
+2023-12-14,Winter,13052.52,26.91,Umbrella
+2023-12-15,Winter,29713.93,24.2,Umbrella
+2023-12-16,Winter,27414.09,22.62,Umbrella
+2023-12-17,Winter,40581.95,24.44,Umbrella
+2023-12-18,Winter,24842.66,24.4,Umbrella
+2023-12-19,Winter,27478.11,25.04,Umbrella
+2023-12-20,Winter,30377.59,25.83,Umbrella
+2023-12-21,Winter,27038.6,25.92,Umbrella
+2023-12-22,Winter,35302.84,23.27,Umbrella
+2023-12-23,Winter,49178.8,23.16,Umbrella
+2023-12-24,Winter,40902.79,25.55,Umbrella
+2023-12-25,Winter,18073.17,25.5,Umbrella
+2023-12-26,Winter,18231.98,27.11,Umbrella
+2023-12-27,Winter,16149.21,23.45,Umbrella
+2023-12-28,Winter,17271.58,23.46,Umbrella
+2023-12-29,Winter,13629.08,24.52,Umbrella
+2023-12-30,Winter,22464.88,25.87,Umbrella
+2023-12-31,Winter,20119.43,24.76,Umbrella
+2023-08-08,Summer,48903.63,50.19,Sunglasses
+2023-08-09,Summer,45720.37,51.09,Sunglasses
+2023-08-10,Summer,41543.01,45.25,Sunglasses
+2023-08-11,Summer,42094.18,48.54,Sunglasses
+2023-08-12,Summer,63372.97,46.79,Sunglasses
+2023-08-13,Summer,62637.35,53.85,Sunglasses
+2023-08-14,Summer,41654.29,47.11,Sunglasses
+2023-08-15,Summer,48056.57,49.15,Sunglasses
+2023-08-16,Summer,41880.75,47.36,Sunglasses
+2023-08-17,Summer,36660.99,49.44,Sunglasses
+2023-08-18,Summer,42443.49,51.08,Sunglasses
+2023-08-19,Summer,66968.99,53.45,Sunglasses
+2023-08-20,Summer,61552.8,46.4,Sunglasses
+2023-08-21,Summer,41611.66,53.4,Sunglasses
+2023-08-22,Summer,42882.6,51.7,Sunglasses
+2023-08-23,Summer,28535.69,52.41,Sunglasses
+2023-08-24,Summer,33420.26,49.34,Sunglasses
+2023-08-25,Summer,51566.45,45.68,Sunglasses
+2023-08-26,Summer,74099.94,44.99,Sunglasses
+2023-08-27,Summer,56978.52,52.13,Sunglasses
+2023-08-28,Summer,28909.99,47.24,Sunglasses
+2023-08-29,Summer,49001.6,46.68,Sunglasses
+2023-08-30,Summer,35035.45,54.04,Sunglasses
+2023-08-31,Summer,39180.41,49.75,Sunglasses
+2023-09-01,Fall,22210.85,48.02,Sunglasses
+2023-09-02,Fall,24836.68,51.45,Sunglasses
+2023-09-03,Fall,21781.52,48.31,Sunglasses
+2023-09-04,Fall,25419.69,45.49,Sunglasses
+2023-09-05,Fall,19041.08,49.84,Sunglasses
+2023-09-06,Fall,20762.63,46.71,Sunglasses
+2023-09-07,Fall,20807.21,52.66,Sunglasses
+2023-09-08,Fall,9619.96,51.12,Sunglasses
+2023-09-09,Fall,38324.69,46.68,Sunglasses
+2023-09-10,Fall,39982.35,53.56,Sunglasses
+2023-09-11,Fall,13629.39,45.26,Sunglasses
+2023-09-12,Fall,26770.04,54.8,Sunglasses
+2023-09-13,Fall,25703.79,52.03,Sunglasses
+2023-09-14,Fall,19763.89,54.88,Sunglasses
+2023-09-15,Fall,24615.29,52.58,Sunglasses
+2023-09-16,Fall,34208.49,48.35,Sunglasses
+2023-09-17,Fall,25502.02,53.52,Sunglasses
+2023-09-18,Fall,20951.62,47.15,Sunglasses
+2023-09-19,Fall,18454.79,54.27,Sunglasses
+2023-09-20,Fall,25353.95,47.35,Sunglasses
+2023-09-21,Fall,19114.95,52.09,Sunglasses
+2023-09-22,Fall,17737.05,46.19,Sunglasses
+2023-09-23,Fall,32089.25,52.18,Sunglasses
+2023-09-24,Fall,25659.53,53.32,Sunglasses
+2023-09-25,Fall,19038.51,47.88,Sunglasses
+2023-09-26,Fall,21090.84,50.25,Sunglasses
+2023-09-27,Fall,22242.34,48.38,Sunglasses
+2023-09-28,Fall,15866.21,45.36,Sunglasses
+2023-09-29,Fall,15865.98,50.25,Sunglasses
+2023-09-30,Fall,34061.79,53.4,Sunglasses
+2023-10-01,Fall,29037.54,45.01,Sunglasses
+2023-10-02,Fall,14166.28,50.55,Sunglasses
+2023-10-03,Fall,19710.47,45.47,Sunglasses
+2023-10-04,Fall,25258.08,48.81,Sunglasses
+2023-10-05,Fall,23240.91,50.46,Sunglasses
+2023-10-06,Fall,15589.9,48.67,Sunglasses
+2023-10-07,Fall,31290.84,53.64,Sunglasses
+2023-10-08,Fall,29724.64,49.35,Sunglasses
+2023-10-09,Fall,21311.53,54.86,Sunglasses
+2023-10-10,Fall,19647.55,48.18,Sunglasses
+2023-10-11,Fall,19703.24,45.6,Sunglasses
+2023-10-12,Fall,20390.81,49.23,Sunglasses
+2023-10-13,Fall,19346.11,45.87,Sunglasses
+2023-10-14,Fall,38382.84,54.53,Sunglasses
+2023-10-15,Fall,24343.27,49.65,Sunglasses
+2023-10-16,Fall,24542.92,49.76,Sunglasses
+2023-10-17,Fall,21261.2,52.5,Sunglasses
+2023-10-18,Fall,21807.12,47.72,Sunglasses
+2023-10-19,Fall,20661.94,54.07,Sunglasses
+2023-10-20,Fall,21808.65,46.54,Sunglasses
+2023-10-21,Fall,24592.84,54.48,Sunglasses
+2023-10-22,Fall,24063.8,46.69,Sunglasses
+2023-10-23,Fall,28630.17,53.14,Sunglasses
+2023-10-24,Fall,24059.13,51.04,Sunglasses
+2023-10-25,Fall,20720.49,52.08,Sunglasses
+2023-10-26,Fall,18553.12,50.85,Sunglasses
+2023-10-27,Fall,18304.47,51.07,Sunglasses
+2023-10-28,Fall,24356.09,52.52,Sunglasses
+2023-10-29,Fall,17832.66,51.6,Sunglasses
+2023-10-30,Fall,19788.01,53.29,Sunglasses
+2023-10-31,Fall,21472.95,46.13,Sunglasses
+2023-11-01,Fall,14534.84,54.35,Sunglasses
+2023-11-02,Fall,17168.37,51.05,Sunglasses
+2023-11-03,Fall,18196.53,45.22,Sunglasses
+2023-11-04,Fall,27299.56,48.88,Sunglasses
+2023-11-05,Fall,32812.6,49.94,Sunglasses
+2023-11-06,Fall,20389.0,52.15,Sunglasses
+2023-11-07,Fall,23811.13,50.66,Sunglasses
+2023-11-08,Fall,22840.84,51.82,Sunglasses
+2023-11-09,Fall,20869.85,52.32,Sunglasses
+2023-11-10,Fall,20461.07,47.89,Sunglasses
+2023-11-11,Fall,28336.19,48.51,Sunglasses
+2023-11-12,Fall,33905.79,48.96,Sunglasses
+2023-11-13,Fall,19211.98,54.0,Sunglasses
+2023-11-14,Fall,22813.86,52.43,Sunglasses
+2023-11-15,Fall,14115.33,50.04,Sunglasses
+2023-11-16,Fall,18696.03,52.27,Sunglasses
+2023-11-17,Fall,24079.72,47.22,Sunglasses
+2023-11-18,Fall,35770.25,51.84,Sunglasses
+2023-11-19,Fall,28927.14,54.14,Sunglasses
+2023-11-20,Fall,55499.4,50.69,Sunglasses
+2023-11-21,Fall,63468.53,49.25,Sunglasses
+2023-11-22,Fall,58889.53,53.63,Sunglasses
+2023-11-23,Fall,46157.74,46.37,Sunglasses
+2023-11-24,Fall,36877.51,52.0,Sunglasses
+2023-11-25,Fall,82782.37,49.74,Sunglasses
+2023-11-26,Fall,65057.27,47.68,Sunglasses
+2023-11-27,Fall,42827.97,45.42,Sunglasses
+2023-11-28,Fall,16487.91,45.2,Sunglasses
+2023-11-29,Fall,19521.05,52.43,Sunglasses
+2023-11-30,Fall,21502.62,45.78,Sunglasses
+2023-12-01,Winter,8123.23,48.74,Sunglasses
+2023-12-02,Winter,17847.15,46.84,Sunglasses
+2023-12-03,Winter,20515.53,47.72,Sunglasses
+2023-12-04,Winter,8339.03,46.72,Sunglasses
+2023-12-05,Winter,10687.55,52.07,Sunglasses
+2023-12-06,Winter,12829.25,48.3,Sunglasses
+2023-12-07,Winter,8518.65,45.18,Sunglasses
+2023-12-08,Winter,9437.71,50.64,Sunglasses
+2023-12-09,Winter,12519.07,45.12,Sunglasses
+2023-12-10,Winter,15778.65,45.14,Sunglasses
+2023-12-11,Winter,10821.06,46.64,Sunglasses
+2023-12-12,Winter,8551.94,50.21,Sunglasses
+2023-12-13,Winter,6870.73,46.54,Sunglasses
+2023-12-14,Winter,12057.08,46.54,Sunglasses
+2023-12-15,Winter,24254.36,48.78,Sunglasses
+2023-12-16,Winter,37073.75,52.62,Sunglasses
+2023-12-17,Winter,24156.81,47.74,Sunglasses
+2023-12-18,Winter,30985.73,48.96,Sunglasses
+2023-12-19,Winter,19737.43,48.41,Sunglasses
+2023-12-20,Winter,22687.09,48.19,Sunglasses
+2023-12-21,Winter,21886.43,45.52,Sunglasses
+2023-12-22,Winter,9988.09,51.89,Sunglasses
+2023-12-23,Winter,31287.18,47.83,Sunglasses
+2023-12-24,Winter,28377.59,53.22,Sunglasses
+2023-12-25,Winter,13424.37,47.85,Sunglasses
+2023-12-26,Winter,9249.5,54.02,Sunglasses
+2023-12-27,Winter,6487.71,47.82,Sunglasses
+2023-12-28,Winter,11698.73,45.26,Sunglasses
+2023-12-29,Winter,6994.89,52.51,Sunglasses
+2023-12-30,Winter,9543.42,50.16,Sunglasses
+2023-12-31,Winter,13564.53,54.61,Sunglasses
+2023-08-08,Summer,24904.74,84.36,Sneakers
+2023-08-09,Summer,40237.45,78.75,Sneakers
+2023-08-10,Summer,28710.83,80.71,Sneakers
+2023-08-11,Summer,28435.9,76.87,Sneakers
+2023-08-12,Summer,45776.55,81.0,Sneakers
+2023-08-13,Summer,63545.03,79.17,Sneakers
+2023-08-14,Summer,36837.62,83.7,Sneakers
+2023-08-15,Summer,41876.99,86.24,Sneakers
+2023-08-16,Summer,31969.79,83.63,Sneakers
+2023-08-17,Summer,44842.73,83.12,Sneakers
+2023-08-18,Summer,23172.98,76.46,Sneakers
+2023-08-19,Summer,61842.13,78.18,Sneakers
+2023-08-20,Summer,33666.89,78.63,Sneakers
+2023-08-21,Summer,30290.25,76.62,Sneakers
+2023-08-22,Summer,26113.16,75.4,Sneakers
+2023-08-23,Summer,32480.72,87.65,Sneakers
+2023-08-24,Summer,32408.4,75.92,Sneakers
+2023-08-25,Summer,42254.48,75.54,Sneakers
+2023-08-26,Summer,68884.67,77.83,Sneakers
+2023-08-27,Summer,56019.21,82.16,Sneakers
+2023-08-28,Summer,28097.32,80.77,Sneakers
+2023-08-29,Summer,37247.66,73.0,Sneakers
+2023-08-30,Summer,49620.84,78.02,Sneakers
+2023-08-31,Summer,37261.24,73.66,Sneakers
+2023-09-01,Fall,40454.22,86.79,Sneakers
+2023-09-02,Fall,53762.74,83.8,Sneakers
+2023-09-03,Fall,52636.65,73.74,Sneakers
+2023-09-04,Fall,33061.4,87.96,Sneakers
+2023-09-05,Fall,40660.8,82.57,Sneakers
+2023-09-06,Fall,38487.85,83.02,Sneakers
+2023-09-07,Fall,30899.49,73.32,Sneakers
+2023-09-08,Fall,38092.64,86.65,Sneakers
+2023-09-09,Fall,46826.36,78.9,Sneakers
+2023-09-10,Fall,46945.05,86.9,Sneakers
+2023-09-11,Fall,33856.58,82.5,Sneakers
+2023-09-12,Fall,37412.08,76.52,Sneakers
+2023-09-13,Fall,28017.46,82.32,Sneakers
+2023-09-14,Fall,28931.76,80.28,Sneakers
+2023-09-15,Fall,40026.8,77.66,Sneakers
+2023-09-16,Fall,67549.17,74.38,Sneakers
+2023-09-17,Fall,56021.44,76.31,Sneakers
+2023-09-18,Fall,35729.95,83.02,Sneakers
+2023-09-19,Fall,37091.47,87.01,Sneakers
+2023-09-20,Fall,36577.15,87.33,Sneakers
+2023-09-21,Fall,44345.53,85.07,Sneakers
+2023-09-22,Fall,29001.58,75.53,Sneakers
+2023-09-23,Fall,44135.34,75.16,Sneakers
+2023-09-24,Fall,42837.42,83.61,Sneakers
+2023-09-25,Fall,38321.36,79.39,Sneakers
+2023-09-26,Fall,33403.75,77.73,Sneakers
+2023-09-27,Fall,38997.52,74.32,Sneakers
+2023-09-28,Fall,36837.89,74.9,Sneakers
+2023-09-29,Fall,28412.63,76.45,Sneakers
+2023-09-30,Fall,62866.43,84.97,Sneakers
+2023-10-01,Fall,39873.16,83.62,Sneakers
+2023-10-02,Fall,45507.84,87.62,Sneakers
+2023-10-03,Fall,36375.08,78.53,Sneakers
+2023-10-04,Fall,36400.29,75.69,Sneakers
+2023-10-05,Fall,28932.56,82.87,Sneakers
+2023-10-06,Fall,35565.12,86.13,Sneakers
+2023-10-07,Fall,42282.8,72.69,Sneakers
+2023-10-08,Fall,52893.0,79.34,Sneakers
+2023-10-09,Fall,34293.19,78.27,Sneakers
+2023-10-10,Fall,37702.34,79.89,Sneakers
+2023-10-11,Fall,38329.3,80.42,Sneakers
+2023-10-12,Fall,38935.44,83.1,Sneakers
+2023-10-13,Fall,23965.97,79.06,Sneakers
+2023-10-14,Fall,52663.81,74.38,Sneakers
+2023-10-15,Fall,59523.43,78.97,Sneakers
+2023-10-16,Fall,42207.49,79.13,Sneakers
+2023-10-17,Fall,31788.8,83.11,Sneakers
+2023-10-18,Fall,35672.81,83.22,Sneakers
+2023-10-19,Fall,35706.04,87.92,Sneakers
+2023-10-20,Fall,39533.26,76.49,Sneakers
+2023-10-21,Fall,54124.91,77.38,Sneakers
+2023-10-22,Fall,59097.55,86.12,Sneakers
+2023-10-23,Fall,38420.15,72.7,Sneakers
+2023-10-24,Fall,46184.48,86.34,Sneakers
+2023-10-25,Fall,39562.77,83.07,Sneakers
+2023-10-26,Fall,38896.23,74.69,Sneakers
+2023-10-27,Fall,35227.36,83.66,Sneakers
+2023-10-28,Fall,75121.86,82.27,Sneakers
+2023-10-29,Fall,53212.66,76.32,Sneakers
+2023-10-30,Fall,32634.51,83.17,Sneakers
+2023-10-31,Fall,45883.48,78.76,Sneakers
+2023-11-01,Fall,38399.25,73.7,Sneakers
+2023-11-02,Fall,32981.76,80.93,Sneakers
+2023-11-03,Fall,31849.02,83.15,Sneakers
+2023-11-04,Fall,33827.6,84.39,Sneakers
+2023-11-05,Fall,63739.84,76.14,Sneakers
+2023-11-06,Fall,42670.91,82.19,Sneakers
+2023-11-07,Fall,34323.96,75.34,Sneakers
+2023-11-08,Fall,32529.76,81.86,Sneakers
+2023-11-09,Fall,37151.72,86.06,Sneakers
+2023-11-10,Fall,37952.3,85.29,Sneakers
+2023-11-11,Fall,40818.11,80.88,Sneakers
+2023-11-12,Fall,53105.7,78.54,Sneakers
+2023-11-13,Fall,28681.07,81.83,Sneakers
+2023-11-14,Fall,24824.49,85.01,Sneakers
+2023-11-15,Fall,35947.53,80.26,Sneakers
+2023-11-16,Fall,27022.93,76.98,Sneakers
+2023-11-17,Fall,32296.36,73.63,Sneakers
+2023-11-18,Fall,58141.14,74.76,Sneakers
+2023-11-19,Fall,38808.86,79.84,Sneakers
+2023-11-20,Fall,87885.6,76.11,Sneakers
+2023-11-21,Fall,71933.02,75.61,Sneakers
+2023-11-22,Fall,82496.59,82.07,Sneakers
+2023-11-23,Fall,85440.47,83.85,Sneakers
+2023-11-24,Fall,74234.14,85.7,Sneakers
+2023-11-25,Fall,126710.12,80.02,Sneakers
+2023-11-26,Fall,158357.26,72.68,Sneakers
+2023-11-27,Fall,111858.8,85.96,Sneakers
+2023-11-28,Fall,31322.98,86.68,Sneakers
+2023-11-29,Fall,41938.17,87.6,Sneakers
+2023-11-30,Fall,23950.62,82.38,Sneakers
+2023-12-01,Winter,40822.25,86.79,Sneakers
+2023-12-02,Winter,45785.94,86.56,Sneakers
+2023-12-03,Winter,62091.77,83.72,Sneakers
+2023-12-04,Winter,35937.01,76.3,Sneakers
+2023-12-05,Winter,32075.51,74.03,Sneakers
+2023-12-06,Winter,40606.3,85.45,Sneakers
+2023-12-07,Winter,34835.0,75.58,Sneakers
+2023-12-08,Winter,35172.1,78.3,Sneakers
+2023-12-09,Winter,62807.08,84.77,Sneakers
+2023-12-10,Winter,40266.81,72.39,Sneakers
+2023-12-11,Winter,49718.04,75.78,Sneakers
+2023-12-12,Winter,39166.25,74.69,Sneakers
+2023-12-13,Winter,38124.28,74.17,Sneakers
+2023-12-14,Winter,42009.79,74.64,Sneakers
+2023-12-15,Winter,46972.64,76.57,Sneakers
+2023-12-16,Winter,119906.77,77.58,Sneakers
+2023-12-17,Winter,142728.29,85.71,Sneakers
+2023-12-18,Winter,90415.83,76.07,Sneakers
+2023-12-19,Winter,60375.93,80.15,Sneakers
+2023-12-20,Winter,56443.27,78.61,Sneakers
+2023-12-21,Winter,63775.81,84.66,Sneakers
+2023-12-22,Winter,66165.46,86.42,Sneakers
+2023-12-23,Winter,93100.81,76.48,Sneakers
+2023-12-24,Winter,58396.73,87.47,Sneakers
+2023-12-25,Winter,37138.7,82.72,Sneakers
+2023-12-26,Winter,44603.84,83.33,Sneakers
+2023-12-27,Winter,30458.4,80.76,Sneakers
+2023-12-28,Winter,35601.45,76.27,Sneakers
+2023-12-29,Winter,32734.36,83.84,Sneakers
+2023-12-30,Winter,45186.48,87.32,Sneakers
+2023-12-31,Winter,47517.46,83.42,Sneakers
